@@ -173,7 +173,7 @@ footer h1{
   color: #f9e42e;
   margin-bottom: 40px;
 }
-
+/*Removing this doesn't break anything*/
 .twitter, .facebook {
   display: inline-block;
 }
